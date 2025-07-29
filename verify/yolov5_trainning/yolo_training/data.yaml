@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/yolo_training
+train: /content/drive/MyDrive/yolo_training/images/train
+val: /content/drive/MyDrive/yolo_training/images/val
+nc: 3  # Number of classes
+names: ['ID', 'Nom', 'Prénom']  # Class names

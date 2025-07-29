@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+*.env
+*.env.*
+
+# VSCode settings
+.vscode/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+*.log
+.env
+venv/
+*.csv
+*.json
+*.zip
+*.tar.gz
+*.h5
+*.pth
+*.pkl
+node_modules/
+.DS_Store
+.idea/
+data/
+*.lock
+*.db
+*.sock
+*.pid
+*.log
+*.bak
+# Ignore virtual environments
+venv/
+verify/venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore large binary/model files
+*.whl
+*.pkl
+*.pt
+
+# Ignore temp files and folders
+temp_*/
+data/
+venv/
+verify/venv/
+__pycache__/
+*.whl
+*.pkl
+*.pt
+temp_*/
+data/
+verify/ml_models/yolo_training/exp/crops/ID/*.jpg
+*.jpg
+*.jpeg
+*.jpg
+*.jpeg
+*.png
